@@ -1,3 +1,4 @@
+package Problems;
 // Take an integer N as input, print the corresponding stair pattern for N.
 // *
 // **
