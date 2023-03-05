@@ -8,8 +8,6 @@ package Problems;
 // Probelm Constraints
 // 1 <= N <= 100
 
-
-
 import java.lang.*;
 import java.util.*;
 
