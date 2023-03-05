@@ -16,23 +16,19 @@
 
 // Example Input
 // Input 1:
-
 //  2
 // Input 2:
-
 //  3
-
 
 // Example Output
 // Output 1:
-
 // 1
 // 1 
 // Output 2:
-
 //  1
 //  1 
 //  1 3
+
 import java.util.*;
 public class Main {
     public static void main(String[] args) {
